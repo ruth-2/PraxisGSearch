@@ -6,7 +6,7 @@ Gesicherte API, um Ergebnisse von einer Google-Suche abzurufen. Verwendet die [G
 
 ## Voraussetzungen
 
-Die Umgebungsvariablen GOOGLE_API_KEY und GOOGLE_SEARCH_ENGINE_ID müssen von der Google Custom Search-API auf den API Key und Search ID eingestellt werden.
+Die Umgebungsvariablen `GOOGLE_API_KEY` und `GOOGLE_SEARCH_ENGINE_ID` müssen von der Google Custom Search-API auf den API Key und Search ID eingestellt werden.
 
 ## Authentifizierung
 
