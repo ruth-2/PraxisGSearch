@@ -15,5 +15,8 @@ Die API verfügt über eine rudimentäre Authentifizierung, um den eigenen API-K
 ### Beispiel:
 
 ```bash
-curl -H "API-KEY: 1811bf13-f6a5-41c5-8c58-19eb4c2a3be6" -d '{"keyword": "google custom search api"}' -H 'Content-Type: application/json' http://localhost:8080/search
+curl -d '{"keyword": "google custom search api"}' \
+     -H "API-KEY: 1811bf13-f6a5-41c5-8c58-19eb4c2a3be6" \
+     -H 'Content-Type: application/json' \
+     http://localhost:8080/search
 ```
