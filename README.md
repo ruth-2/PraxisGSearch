@@ -10,7 +10,7 @@ Die Umgebungsvariablen `GOOGLE_API_KEY` und `GOOGLE_SEARCH_ENGINE_ID` müssen vo
 
 ## Authentifizierung
 
-Die API verfügt über eine rudimentäre Authentifizierung, um den eigenen API-Key zu verwenden, um die Anfrage zu erstellen. Es könnte in der resources/application.properties-Datei gefunden werden.
+Die API verfügt über eine rudimentäre Authentifizierung, um den eigenen API-Key zu verwenden, um die Anfrage zu erstellen. Es könnte in der `resources/application.properties`-Datei gefunden werden.
 
 ### Beispiel:
 
